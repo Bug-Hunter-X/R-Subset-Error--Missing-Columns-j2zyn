@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R when subsetting data frames and provides a solution for handling missing columns. The `bug.R` file contains code that causes the error, while `bugSolution.R` shows how to gracefully handle cases where columns specified for subsetting do not exist in the data frame.
